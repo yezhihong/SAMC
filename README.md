@@ -1,9 +1,7 @@
-# ///////////////////////////////////////////////////////////////////////////////////////////////
-# //       Hall-A Single Arm Monte Carlo Simulation Tool in C++                                //
-# //-------------------------------------------------------------------------------------------//
-# // --- Release by Zhihong Ye, but most credits are given to Alexander Deur and Huan Yao.     //
-# //     09/30/2013                                                                            //
-# ///////////////////////////////////////////////////////////////////////////////////////////////
+#        Hall-A Single Arm Monte Carlo Simulation Tool in C++   
+
+## Release by Zhihong Ye, but most credits are given to Alexander Deur and Huan Yao. 
+##  09/30/2013                                                                           
  
  This is a C++ version of SAMC which was orginally developed by A. Deur using FORTRAN,
  and was converted into a C++ package by Huan Yao. I made some small modification and added a generator. 
